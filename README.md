@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [JabRef](https://github.com/JabRef/jabref)
 
-- 🌱 I’m currently learning **Git, C**
+- 🌱 I’m currently learning **git, c and software developement**
 
-- 💬 Ask me about **Java, JavaFx, Android**
+- 💬 Ask me about **java, javafx and android**
 
 - 📫 How to reach me **housi.housi2015@gmail.com**
 
