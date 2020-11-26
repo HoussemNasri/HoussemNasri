@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JabRef](https://github.com/JabRef/jabref)
 
-- 🌱 I’m currently learning **git, c and software developement**
+- 🌱 I’m currently learning **git, c, linux and software developement**
 
 - 💬 Ask me about **java, javafx and android**
 
