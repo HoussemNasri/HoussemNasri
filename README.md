@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssemnasri" alt="houssemnasri" /></a> </p>
 
-- 🔭 I’m currently working on [JabRef](https://github.com/JabRef/jabref)
-
 - 🌱 I’m currently learning **git, c, linux and software developement**
 
 - 💬 Ask me about **java, javafx and android**
