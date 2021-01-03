@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Houssem</h1>
 <h3 align="center">A passionate java developer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=houssemnasri&label=Profile%20views&color=0e75b6&style=flat" alt="houssemnasri" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssemnasri" alt="houssemnasri" /></a> </p>
 
-- 🌱 I’m currently learning **git, c, linux and software developement**
+- 🔭 I’m currently working on [Pathfinding](https://github.com/HoussemNasri/Pathfinding)
+
+- 🌱 I’m currently learning **Git, C programming language, Linux and Software design**
 
 - 💬 Ask me about **java, javafx and android**
 
