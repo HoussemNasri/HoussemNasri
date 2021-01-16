@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pathfinding](https://github.com/HoussemNasri/Pathfinding)
 
-- 🌱 I’m currently learning **Git, C programming language, Linux and Software design**
+- 🌱 I’m currently learning **Git, C programming language, Spring Framework and Software design**
 
 - 💬 Ask me about **java, javafx and android**
 
