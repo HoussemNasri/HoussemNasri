@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Git, Spring Framework and Software design**
 
-- 💬 Ask me about **java, javafx and android**
+- 💬 Ask me about **Java, Javafx and Android**
 
 - 📫 How to reach me **housi.housi2015@gmail.com**
 
