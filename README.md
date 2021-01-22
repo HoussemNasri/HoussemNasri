@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Houssem</h1>
 <h3 align="center">A passionate Java Developer from Tunisia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houssemnasri" alt="houssemnasri" /></a> </p>
-
-- 🔭 I’m currently working on [Pathfinding](https://github.com/HoussemNasri/Pathfinding)
-
-- 🌱 I’m currently learning **Git, Spring Framework and Software design**
-
-- 💬 Ask me about **Java, Javafx and Android**
-
-- 📫 How to reach me **housi.housi2015@gmail.com**
+### 👨🏻‍💻 &nbsp;About Me
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Engineering at the University of Carthage.\
+🌱 &nbsp;I'm on track for learning more about **Git/Github**, **Software Architecture**, and **The Spring Framework**.\
+✍️ &nbsp;In my free time, I pursue watching Movies and Video Games as hobbies.\
+✉️ &nbsp;You can shoot me an email at housi.housi2015@gmail.com! I'll try to respond as soon as I can.\
 
 
-<h3 align="left">Languages and Tools:</h3>
+### 🧰 Languages and Tools:
 
 <p><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />  
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
