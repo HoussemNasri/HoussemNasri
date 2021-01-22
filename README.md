@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Houssem</h1>
-<h3 align="center">A passionate Java Developer from Tunisia</h3>
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
