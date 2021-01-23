@@ -5,7 +5,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at the University of Carthage.\
 🌱 &nbsp;I'm on track for learning more about **Git/Github**, **Software Architecture**, and **The Spring Framework**.\
 ✍️ &nbsp;In my free time, I pursue watching Movies and Video Games as hobbies.\
-✉️ &nbsp;You can shoot me an email at housi.housi2015@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at housi.housi2015@gmail.com! I'll try to respond as soon as I can.
 
 
 ### 🧰 Languages and Tools:
