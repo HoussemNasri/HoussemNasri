@@ -21,3 +21,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemnasri&show_icons=true&locale=en" alt="houssemnasri" /></p>
+
+### ☎ Contact Me
+[![Twitter Badge](https://img.shields.io/badge/-@houssemnasrii-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/houssemnasrii)](https://twitter.com/houssemnasrii) [![Linkedin Badge](https://img.shields.io/badge/-houssemnasri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/houssemnasri/)](https://www.linkedin.com/in/houssemnasri/) 
