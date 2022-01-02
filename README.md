@@ -18,7 +18,8 @@
 <img src="https://img.shields.io/badge/Git-f24e28?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-ffa511?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><p/>
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/scala-%de3423?style=for-the-badge&logo=scala&logoColor=white" /><p/>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemnasri&show_icons=true&locale=en" alt="houssemnasri" /></p>
