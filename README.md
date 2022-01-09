@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Engineering at the University of Carthage.\
-🌱 &nbsp;I'm on track for learning more about **Scala**, **Functional Programming**, **Vue.JS** and **Spring**.\
+🌱 &nbsp;I'm on track for learning more about **Scala**, **Functional Programming**, **VueJS** and **Spring**.\
 ✍️ &nbsp;In my free time, I pursue watching Movies and Video Games as hobbies.\
 ✉️ &nbsp;You can shoot me an email at houssemnasri2001@gmail.com! I'll try to respond as soon as I can.
 
