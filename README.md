@@ -21,7 +21,8 @@
 <img src="https://img.shields.io/badge/scala-de3423?style=for-the-badge&logo=scala&logoColor=white" /><p/>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemnasri&show_icons=true&locale=en" alt="houssemnasri" /></p>
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=HoussemNasri&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=HoussemNasri&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=HoussemNasri&layout=compact&theme=dark)
 ### 📱 Social Media
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/houssemnasri/)](https://www.linkedin.com/in/houssemnasri/) [![Twitter Badge](https://img.shields.io/badge/-TWITTER-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/houssemnasrii)](https://twitter.com/houssemnasrii)
